@@ -1,0 +1,157 @@
+.img:hover {
+  transform: scale(1.2);
+}
+/*None*/
+@media screen and (max-width: 575.98px) {
+  .nav {
+    width: 100vw;
+  }
+  .title {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+  }
+  .btns {
+    margin-right: 1rem;
+    padding: 0.2rem 2rem;
+    background-color: rgba(28, 28, 28, 0.7);
+    border: none;
+    font-weight: 600;
+  }
+  .text {
+    margin-top: 0.5rem;
+    font-weight: 600;
+  }
+  .overlay {
+    margin-top: 9rem;
+    padding: 1rem;
+  }
+}
+/*sm*/
+@media screen and (min-width: 576px) and (max-width: 767.98px) {
+  .nav {
+    width: 100vw;
+  }
+  .title {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+  }
+  .btns {
+    margin-right: 1rem;
+    padding: 0.2rem 2rem;
+    background-color: rgba(28, 28, 28, 0.7);
+    border: none;
+    font-weight: 600;
+  }
+  .text {
+    margin-top: 0.5rem;
+    font-weight: 600;
+  }
+  .overlay {
+    margin-top: 10rem;
+    padding: 1rem;
+  }
+}
+/*md*/
+@media screen and (min-width: 768px) and (max-width: 991.98px) {
+  .nav {
+    width: 100vw;
+  }
+  .title {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+  }
+  .btns {
+    margin-right: 1rem;
+    padding: 0.2rem 2rem;
+    background-color: rgba(28, 28, 28, 0.7);
+    border: none;
+    font-weight: 600;
+  }
+  .text {
+    margin-top: 0.5rem;
+    font-weight: 600;
+  }
+  .overlay {
+    margin-top: 9rem;
+    width: 56%;
+    padding: 1rem;
+  }
+}
+/*lg*/
+@media screen and (min-width: 992px) and (max-width: 1199.98px) {
+  .nav {
+    width: 100vw;
+  }
+  .title {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+  }
+  .btns {
+    margin-right: 1rem;
+    padding: 0.2rem 2rem;
+    background-color: rgba(28, 28, 28, 0.7);
+    border: none;
+    font-weight: 600;
+  }
+  .text {
+    margin-top: 0.5rem;
+    font-weight: 600;
+  }
+  .overlay {
+    margin-top: 9rem;
+    width: 46%;
+    padding: 1rem;
+  }
+}
+/*xl*/
+@media screen and (min-width: 1200px) and (max-width: 1399.98px) {
+  .nav {
+    width: 100vw;
+  }
+  .title {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+  }
+  .btns {
+    margin-right: 1rem;
+    padding: 0.2rem 2rem;
+    background-color: rgba(28, 28, 28, 0.7);
+    border: none;
+    font-weight: 600;
+  }
+  .text {
+    margin-top: 0.5rem;
+    font-weight: 600;
+  }
+  .overlay {
+    margin-top: 9rem;
+    width: 40%;
+    padding: 1rem;
+  }
+}
+/*xxl*/
+@media screen and (min-width: 1400px) {
+  .nav {
+    width: 100vw;
+  }
+  .title {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+  }
+  .btns {
+    margin-right: 1rem;
+    padding: 0.2rem 2rem;
+    background-color: rgba(28, 28, 28, 0.7);
+    border: none;
+    font-weight: 600;
+  }
+  .text {
+    margin-top: 0.5rem;
+    font-weight: 600;
+  }
+  .overlay {
+    margin-top: 9rem;
+    width: 40%;
+    padding: 1rem;
+  }
+}
