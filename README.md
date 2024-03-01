@@ -9,8 +9,8 @@ _(In file app.js of backend, I used Nodejs to process a given list of movies
 in json before uploading it to the database. I just tried it out, I've converted the code into comments)_
 
 
-**II. Functional description
-**
+**II. Functional description**
+
 1. Display a banner with information about a movie randomly taken from the list of 20 most recently released movies.
 
 2. Display movie list by many categories: popular, high rated, genre.
