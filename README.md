@@ -5,7 +5,7 @@ Backend: NodeJS, Express, link: https://github.com/TuyetAnh82198/movie-app-backe
 Database: MongoDB
 Performance optimization: useCallback, React.memo, helmet, compression
 Language: English, Vietnamese
-_(In file app.js of backend, I used Nodejs to process a given list of movies
+_(In the file app.js of backend, I used Nodejs to process a given list of movies
 in json before uploading it to the database. I just tried it out, I've converted the code into comments)_
 
 
